@@ -1,11 +1,11 @@
-# simple-web-app
+# kerangka-web-sederhana
 Mockup web sederhana menggunakan [materialize css](https://materializecss.com)
 
 ### Cara menggunakan project
 - Clone kode project:
 ```bash
-$ git clone https://github.com/sutrisna/simple-web-app
-$ cd simple-web-app
+$ git clone https://github.com/openclassprogramming/kerangka-web-sederhana
+$ cd kerangka-web-sederhana
 $ Buka index.html dengan klik 2x pada file tersebut
 ```
 
